@@ -14,7 +14,7 @@ Aplikace zpracovává obrazové soubory bludišť, rozpoznává průchozí cesty
 |---|---|
 | Předmět | NNUI1 – Základy umělé inteligence 1 |
 | Projekt | Semestrální práce |
-| Autor | Aleš Tlučhoř |
+| Autor | Bc. Aleš Tlučhoř |
 | Univerzita | Univerzita Pardubice |
 | Fakulta | Fakulta elektrotechniky a informatiky |
 | Jazyk | C# |
